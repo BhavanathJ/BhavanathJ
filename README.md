@@ -103,7 +103,7 @@ I reply. Eventually. I'm not antisocial, just selective.
 
 <div align="center">
 
-![Bhavanath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhavanathJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github)
+![Bhavanath's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BhavanathJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BhavanathJ&theme=tokyonight&hide_border=true&background=0d1117)
 
