@@ -105,7 +105,7 @@ I reply. Eventually. I'm not antisocial, just selective.
 
 ![Bhavanath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhavanathJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=BhavanathJ&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
